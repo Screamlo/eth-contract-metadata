@@ -90,7 +90,14 @@
     "decimals": 18,
     "symbol": "APPC"
   },
-  "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d": {
+   "0x1a7a8BD9106F2B8D977E08582DC7d24c723ab0DB": {
+    "name": "Testcoins",
+    "logo": "testsvg.svg",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "ttccn"
+  },
+  "0x06012c8cf97BEaD5deAe237070F9587f8E7A266g": {
     "name": "Crypto Kitties",
     "logo": "CryptoKitties-Kitty-13733.svg",
     "erc20": true,
